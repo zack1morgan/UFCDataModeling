@@ -1,6 +1,9 @@
 Key to explain certain values of the cleaned dataset: 
 
 STANCES:  1=orthodox, 2=southpaw, 3=switch, 4=open
+
 WINNING CORNER: 0=red, 1=blue
+
 TITLE FIGHT: 0=no, 1=yes
+
 WEIGHT CLASS: 1=FLYWEIGHT, 2-BANTAMWEIGHT, 3=FEATHERWEIGHT, 4=LIGHTWEIGHT, 5=WELTERWEIGHT, 6=MIDDLEWEIGHT, 7=LIGHT HEAVYWEIGHT, 8=HEAVYWEIGHT
